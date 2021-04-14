@@ -7,8 +7,8 @@
 
 @session_start();
 //API host link
-$baseurl = "http://bringthings.com/API/binder/index.php?p=";
-$firebaseDb_URL="https://binder-5c15a.firebaseio.com/";
+$baseurl = "https://dadhiveapi.herokuapp.com/API/binder/index.php?p=";
+$firebaseDb_URL="https://dadhive-18a20-default-rtdb.firebaseio.com/";
 
 
 
